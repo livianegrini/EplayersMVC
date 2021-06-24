@@ -12,32 +12,34 @@
     <form method="POST" action='@Url.Action("Cadastrar")' enctype="multipart/form-data">
 
         <div class="caixa_cadastro">
+
             <div class="botoes_cadastro">
+
                 <div class="todos_preencher">
 
                     <div class="preencher_cadastro">
                         <label>ID Jogador</label>
-                        <input type="text" name="IdJogador" />
+                        <input type="text" name="IdJogador" required />
                     </div>
 
                     <div class="preencher_cadastro">
                         <label>ID Equipe</label>
-                        <input type="text" name="IdEquipe" />
+                        <input type="text" name="IdEquipe" required />
                     </div>
 
                     <div class="preencher_cadastro">
                         <label>Nome</label>
-                        <input type="text" name="Nome">
+                        <input type="text" name="Nome" required>
                     </div>
 
                     <div class="preencher_cadastro">
                         <label>Email</label>
-                        <input type="text" name="Email">
+                        <input type="text" name="Email" required>
                     </div>
 
                     <div class="preencher_cadastro">
                         <label>Senha</label>
-                        <input type="password" name="Senha">
+                        <input type="password" name="Senha" required>
                     </div>
 
                     <button class="botao_cadastrar" type="submit">Cadastrar</button>
@@ -59,19 +61,19 @@
         </thead>
 
         <tbody>
-                @foreach (Jogador jogador in ViewBag.jogadores)
-                {
-                    <tr>
-                        <td>@jogador.IdJogador</td>
-                        <td>@jogador.IdEquipe</td>
-                        <td>@jogador.Nome</td>
-                        <td>@jogador.Email</td>
-                        
-                        <td><a asp-area="" asp-controller="Jogador" asp-action="Excluir" asp-route-id="@jogador.IdJogador"><i
-                                class="fas fa-trash"></i></a></td>
-                    </tr>
-                }
-            </tbody>
+            @foreach (Jogador jogador in ViewBag.jogadores)
+            {
+                <tr>
+                    <td>@jogador.IdJogador</td>
+                    <td>@jogador.IdEquipe</td>
+                    <td>@jogador.Nome</td>
+                    <td>@jogador.Email</td>
+
+                    <td><a asp-area="" asp-controller="Jogador" asp-action="Excluir" asp-route-id="@jogador.IdJogador"><i
+                            class="fas fa-trash"></i></a></td>
+                </tr>
+            }
+        </tbody>
 
 
     </table>
