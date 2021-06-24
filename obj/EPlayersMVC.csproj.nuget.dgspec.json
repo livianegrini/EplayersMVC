@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dev\\Documents\\EPlayersMVC\\EPlayersMVC.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\Computador\\Família\\Lívia\\Lívia Escola\\Lívia SENAI\\Matérias\\Backend\\C#\\EplayersMVC\\EPlayersMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dev\\Documents\\EPlayersMVC\\EPlayersMVC.csproj": {
+    "C:\\Users\\Usuario\\Documents\\Computador\\Família\\Lívia\\Lívia Escola\\Lívia SENAI\\Matérias\\Backend\\C#\\EplayersMVC\\EPlayersMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dev\\Documents\\EPlayersMVC\\EPlayersMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Computador\\Família\\Lívia\\Lívia Escola\\Lívia SENAI\\Matérias\\Backend\\C#\\EplayersMVC\\EPlayersMVC.csproj",
         "projectName": "EPlayersMVC",
-        "projectPath": "C:\\Users\\dev\\Documents\\EPlayersMVC\\EPlayersMVC.csproj",
-        "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dev\\Documents\\EPlayersMVC\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\Computador\\Família\\Lívia\\Lívia Escola\\Lívia SENAI\\Matérias\\Backend\\C#\\EplayersMVC\\EPlayersMVC.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\Computador\\Família\\Lívia\\Lívia Escola\\Lívia SENAI\\Matérias\\Backend\\C#\\EplayersMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

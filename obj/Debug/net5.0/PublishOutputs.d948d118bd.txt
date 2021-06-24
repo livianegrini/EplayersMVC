@@ -1,0 +1,81 @@
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\EPlayersMVC.exe
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\css\site.css
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\css\style.css
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\favicon.ico
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\bg-lol.jpg
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\Counter-Strike-Logo.png
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\facebook.png
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\FIFA_logo.png
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\fla-logo.png
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\formula-1-logo.png
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\img_fundo.png
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\instagram.png
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\league-of-legends-champions.png
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\logo-lol.png
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\logo.svg
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\padrao.png
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\pilotos.png
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\player.jpg
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\Rectangle 5 azul.png
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\Rectangle 5.png
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\sk-logo.png
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\valorant-logo.png
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\imagens\youtube.png
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\img\Equipes\03002340.jpg
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\img\Equipes\20180118_104151.jpg
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\img\Equipes\7-78049_small-memory-8k-wallpaper-forest-minimalist-wallpaper-4k.jpg
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\img\Equipes\eu e lo.jpg
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\img\Equipes\eu, lala, jess (2).jpg
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\img\Equipes\eu, lala, jess.jpg
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\img\Equipes\IMG-20191103-WA0035.jpg
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\img\Equipes\IMG-20191121-WA0014.jpg
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\img\Equipes\IMG-20200202-WA0038.jpg
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\img\Equipes\padrao.png
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\img\Equipes\VID-20210119-WA0052.mp4
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\img\Equipes\VID-20210120-WA0005.mp4
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\img\Equipes\VID-20210130-WA0015.mp4
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\img\Equipes\wpp +9.jpg
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\img\Equipes\wpp 17.jpg
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\img\Equipes\wpp 7.jpg
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\js\site.js
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\LICENSE
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\appsettings.Development.json
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\appsettings.json
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\EPlayersMVC.dll
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\EPlayersMVC.deps.json
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\EPlayersMVC.runtimeconfig.json
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\EPlayersMVC.pdb
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\EPlayersMVC.Views.dll
+C:\Users\Usuario\Documents\Computador\Família\Lívia\Lívia Escola\Lívia SENAI\Matérias\Backend\C#\EplayersMVC\bin\Debug\net5.0\publish\EPlayersMVC.Views.pdb

@@ -2,7 +2,194 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<section class="container_banner">
+    <img src="~/imagens/img_fundo.png"></img>
+    <div class="texto_banner">
+        <h1>Liga E-Players</h1>
+        <span>O maior portal de campeonatos online</span>
+        <a asp-area="" asp-controller="Equipe" asp-action="Index"><button class="botao_inscrevase">Cadastrar Equipe</button></a>
+        <a asp-area="" asp-controller="Jogador" asp-action="Index"><button class="botao_inscrevase">Cadastrar Jogador</button></a>
+        
+    </div>
+</section>
+
+<section class="container_footer">
+    <div class="container imagens_footer">
+        <img src="~/imagens/formula-1-logo.png"></img>
+        <img src="~/imagens/logo-lol.png"></img>
+        <img src="~/imagens/Counter-Strike-Logo.png"></img>
+        <img src="~/imagens/valorant-logo.png"></img>
+        <img src="~/imagens/FIFA_logo.png"></img>
+    </div>s
+</section>
+
+<section class="container_info">
+    <div class="conteudo_ligas">
+        <div class="container">
+            <div class="texto_info">
+                <h2>Como participar das ligas?</h2>
+                <p>Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+                    industry’s standard dummy text ever since the 1500s, whhen an unknown printer took a galley
+                    of
+                    type and scrambled it to make a type specimen book. It has survied not only five centuries,
+                    but
+                    also the leap into electronic typesetting, remaining essentially unchanged. It was
+                    popularised
+                    in the.</p>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+                    been
+                    the industry’s standard dummy text ever since the 1500s, ehwn an unknown printer took a
+                    galley
+                    of type and scrambled it to make a type specimen book.</p>
+            </div>
+            <img class="img_info" src="~/imagens/league-of-legends-champions.png" alt="">
+        </div>
+    </div>
+</section>
+
+<section class="footer_info container">
+
+    <div class="aovivo_info">
+        <span class="texto_aovivo_embreve">Ao Vivo</span>
+
+        <div class="jogo_info">
+            <span class="texto_footer_info">Sk</span>
+            <img src="~/imagens/sk-logo.png" alt="">
+            <span>Vs</span>
+            <img src="~/imagens/fla-logo.png" alt="">
+            <span>Sk</span>
+        </div>
+    </div>
+
+    <div class="embreve_info">
+        <hr>
+        </hr>
+        <span class="texto_aovivo_embreve">Em Breve</span>
+
+        <div class="jogo_info">
+            <span class="logos_footer_info">Sk</span>
+            <img src="~/imagens/sk-logo.png" alt="">
+            <span>Vs</span>
+            <img src="~/imagens/fla-logo.png" alt="">
+            <span>Sk</span>
+        </div>
+
+        <div class="jogo_info">
+            <span>Sk</span>
+            <img src="~/imagens/sk-logo.png" alt="">
+            <span>Vs</span>
+            <img src="~/imagens/fla-logo.png" alt="">
+            <span>Sk</span>
+        </div>
+    </div>
+</section>
+
+<section class="container_noticias">
+    <div class="box_noticia">
+        <h5>Noticias</h5>
+        <div class="box_noticias_1">
+            <article class="box_card_noticia">
+                <img src="~/imagens/player.jpg" alt="Noticia">
+                <span>Titulo da Noticia</span>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultricies, massa dictum
+                    scelerisque venenatis, velit neque luctus massa, sed varius diam.</p>
+            </article>
+
+            <article class="box_card_noticia">
+                <img src="~/imagens/player.jpg" alt="Noticia">
+                <span>Titulo da Noticia</span>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultricies, massa dictum
+                    scelerisque venenatis, velit neque luctus massa, sed varius diam.</p>
+            </article>
+
+            <article class="box_card_noticia">
+                <img src="~/imagens/player.jpg" alt="Noticia">
+                <span>Titulo da Noticia</span>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultricies, massa dictum
+                    scelerisque venenatis, velit neque luctus massa, sed varius diam.</p>
+            </article>
+        </div>
+
+        <div class="box_noticias_2">
+            <article class="box_card_noticia">
+                <img src="~/imagens/player.jpg" alt="Noticia">
+                <span>Titulo da Noticia</span>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultricies, massa dictum
+                    scelerisque venenatis, velit neque luctus massa, sed varius diam.</p>
+            </article>
+
+            <article class="box_card_noticia">
+                <img src="~/imagens/player.jpg" alt="Noticia">
+                <span>Titulo da Noticia</span>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultricies, massa dictum
+                    scelerisque venenatis, velit neque luctus massa, sed varius diam.</p>
+            </article>
+
+            <article class="box_card_noticia">
+                <img src="~/imagens/player.jpg" alt="Noticia">
+                <span>Titulo da Noticia</span>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ultricies, massa dictum
+                    scelerisque venenatis, velit neque luctus massa, sed varius diam.</p>
+            </article>
+        </div>
+    </div>
+
+    <div class="box_proximas_partidas">
+        <h6 class="titulo_proximas">Próximas Partidas</h6>
+        <div class="box_proximas">
+            <div class="box_partida_1">
+                <span>Sk</span>
+                <img src="~/imagens/sk-logo.png" alt="Logo do Time">
+                <span>Vs</span>
+                <img src="~/imagens/fla-logo.png" alt="Logo do Time">
+                <span>Fla</span>
+                <span>01/01/2021 19:00</span>
+            </div>
+
+            <div class="box_partida_1">
+                <span>Sk</span>
+                <img src="~/imagens/sk-logo.png" alt="Logo do Time">
+                <span>Vs</span>
+                <img src="~/imagens/fla-logo.png" alt="Logo do Time">
+                <span>Fla</span>
+                <span>01/01/2021 19:00</span>
+            </div>
+
+            <div class="box_partida_1">
+                <span>Sk</span>
+                <img src="~/imagens/sk-logo.png" alt="Logo do Time">
+                <span>Vs</span>
+                <img src="~/imagens/fla-logo.png" alt="Logo do Time">
+                <span>Fla</span>
+                <span>01/01/2021 19:00</span>
+            </div>
+
+            <div class="box_partida_1">
+                <span>Sk</span>
+                <img src="~/imagens/sk-logo.png" alt="Logo do Time">
+                <span>Vs</span>
+                <img src="~/imagens/fla-logo.png" alt="Logo do Time">
+                <span>Fla</span>
+                <span>01/01/2021 19:00</span>
+            </div>
+
+            <div class="box_partida_1">
+                <span>Sk</span>
+                <img src="~/imagens/sk-logo.png" alt="Logo do Time">
+                <span>Vs</span>
+                <img src="~/imagens/fla-logo.png" alt="Logo do Time">
+                <span>Fla</span>
+                <span>01/01/2021 19:00</span>
+            </div>
+
+            <div class="box_partida_1">
+                <span>Sk</span>
+                <img src="~/imagens/sk-logo.png" alt="Logo do Time">
+                <span>Vs</span>
+                <img src="~/imagens/fla-logo.png" alt="Logo do Time">
+                <span>Fla</span>
+                <span>01/01/2021 19:00</span>
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,78 @@
+@model Jogador
+@{
+    ViewData["Title"] = "Jogadores";
+}
+
+<div class="banner_cadastro2 container">
+    <h1>Cadastro de @ViewData["Title"]</h1>
+</div>
+
+<div class="tela_cadastro">
+
+    <form method="POST" action='@Url.Action("Cadastrar")' enctype="multipart/form-data">
+
+        <div class="caixa_cadastro">
+            <div class="botoes_cadastro">
+                <div class="todos_preencher">
+
+                    <div class="preencher_cadastro">
+                        <label>ID Jogador</label>
+                        <input type="text" name="IdJogador" />
+                    </div>
+
+                    <div class="preencher_cadastro">
+                        <label>ID Equipe</label>
+                        <input type="text" name="IdEquipe" />
+                    </div>
+
+                    <div class="preencher_cadastro">
+                        <label>Nome</label>
+                        <input type="text" name="Nome">
+                    </div>
+
+                    <div class="preencher_cadastro">
+                        <label>Email</label>
+                        <input type="text" name="Email">
+                    </div>
+
+                    <div class="preencher_cadastro">
+                        <label>Senha</label>
+                        <input type="password" name="Senha">
+                    </div>
+
+                    <button class="botao_cadastrar" type="submit">Cadastrar</button>
+                </div>
+
+            </div>
+
+        </div>
+
+    </form>
+
+
+    <table class="lista_de_jogadores2">
+        <thead>
+            <th class="linha1mvc">ID Jogador</th>
+            <th class="linha1mvc">ID Equipe</th>
+            <th class="linha2">Nome</th>
+            <th class="linha3">Email</th>
+        </thead>
+
+        <tbody>
+                @foreach (Jogador jogador in ViewBag.jogadores)
+                {
+                    <tr>
+                        <td>@jogador.IdJogador</td>
+                        <td>@jogador.IdEquipe</td>
+                        <td>@jogador.Nome</td>
+                        <td>@jogador.Email</td>
+                        
+                        <td><a asp-area="" asp-controller="Jogador" asp-action="Excluir" asp-route-id="@jogador.IdJogador"><i
+                                class="fas fa-trash"></i></a></td>
+                    </tr>
+                }
+            </tbody>
+
+
+    </table>
+</div>

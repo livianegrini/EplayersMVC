@@ -5,7 +5,6 @@ namespace EPlayersMVC.Interfaces
 {
     public interface IJogador
     {
-         
          void Criar(Jogador j);
 
          List<Jogador> LerTodos();

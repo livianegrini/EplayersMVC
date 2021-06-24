@@ -1,0 +1,40 @@
+@{
+    ViewData["Title"] = "Login ";
+}
+
+<div class="banner_cadastro container">
+    <h1>@ViewData["Title"]</h1>
+</div>
+
+<div class="tela_cadastro">
+
+    <form method="POST" action='@Url.Action("Logar")' enctype="multipart/form-data">
+
+        <div class="caixa_cadastro2">
+
+            <div class="botoes_cadastro">
+
+                <div class="todos_preencher">
+
+                    <div class="preencher_cadastro">
+                        <label>Email</label>
+                        <input type="text" name="Email" required />
+                    </div>
+
+                    <div class="preencher_cadastro">
+                        <label>Senha</label>
+                        <input type="password" name="Senha" required>
+                    </div>
+
+                    @* Peek, pegar o que ta dentro do TempData, tipo procurar *@
+                    <div class="erro">@TempData.Peek("Mensagem")</div>
+
+                    <button class="botao_cadastrar" type="submit">Entrar</button>
+                </div>
+
+            </div>
+
+        </div>
+
+    </form>
+</div>
